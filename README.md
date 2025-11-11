@@ -70,6 +70,3 @@ This project analyzes real-world tire usage data to understand factors affecting
 - matplotlib / seaborn
 - Jupyter Notebook
 
----
-
-## Repository Structure
